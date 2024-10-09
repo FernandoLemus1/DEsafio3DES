@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\source\\repos\\ProyectoDesafio3\\ProyectoDesafio3\\ProyectoDesafio3.csproj": {}
+    "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\ProyectoDesafio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\source\\repos\\ProyectoDesafio3\\ProyectoDesafio3\\ProyectoDesafio3.csproj": {
+    "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\ProyectoDesafio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\source\\repos\\ProyectoDesafio3\\ProyectoDesafio3\\ProyectoDesafio3.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\ProyectoDesafio3.csproj",
         "projectName": "ProyectoDesafio3",
-        "projectPath": "C:\\Users\\Fernando\\source\\repos\\ProyectoDesafio3\\ProyectoDesafio3\\ProyectoDesafio3.csproj",
+        "projectPath": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\ProyectoDesafio3.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\source\\repos\\ProyectoDesafio3\\ProyectoDesafio3\\obj\\",
+        "outputPath": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",

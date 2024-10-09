@@ -12,7 +12,7 @@ namespace ProyectoDesafio3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize] // Asegura que solo los usuarios autenticados puedan acceder a este controlador
     public class PasoPreparacionsController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -23,6 +23,7 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // GET: api/PasoPreparacions
+        // Todos los usuarios autenticados pueden ver los pasos de preparación
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PasoPreparacion>>> GetPasoPreparacions()
         {
@@ -30,6 +31,7 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // GET: api/PasoPreparacions/5
+        // Todos los usuarios autenticados pueden ver detalles de un paso de preparación específico
         [HttpGet("{id}")]
         public async Task<ActionResult<PasoPreparacion>> GetPasoPreparacion(int id)
         {
@@ -44,8 +46,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // PUT: api/PasoPreparacions/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // Solo los usuarios con el rol de "Administrador" pueden modificar un paso de preparación
         [HttpPut("{id}")]
+        [Authorize(Roles = "Administrador")] // Solo los usuarios con el rol "Administrador" pueden modificar
         public async Task<IActionResult> PutPasoPreparacion(int id, PasoPreparacion pasoPreparacion)
         {
             if (id != pasoPreparacion.Id)
@@ -75,8 +78,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // POST: api/PasoPreparacions
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // Solo los usuarios con el rol de "Administrador" pueden crear un nuevo paso de preparación
         [HttpPost]
+        [Authorize(Roles = "Administrador")] // Solo los usuarios con el rol "Administrador" pueden crear
         public async Task<ActionResult<PasoPreparacion>> PostPasoPreparacion(PasoPreparacion pasoPreparacion)
         {
             _context.PasoPreparacions.Add(pasoPreparacion);
@@ -86,7 +90,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // DELETE: api/PasoPreparacions/5
+        // Solo los usuarios con el rol de "Administrador" pueden eliminar un paso de preparación
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Administrador")] // Solo los usuarios con el rol "Administrador" pueden eliminar
         public async Task<IActionResult> DeletePasoPreparacion(int id)
         {
             var pasoPreparacion = await _context.PasoPreparacions.FindAsync(id);
@@ -106,4 +112,5 @@ namespace ProyectoDesafio3.Controllers
             return _context.PasoPreparacions.Any(e => e.Id == id);
         }
     }
+
 }

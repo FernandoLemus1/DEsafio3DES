@@ -12,7 +12,7 @@ namespace ProyectoDesafio3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize] // Requiere que el usuario esté autenticado
     public class RecetasController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -23,6 +23,7 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // GET: api/Recetas
+        // Todos los usuarios autenticados pueden ver las recetas
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Recetas>>> GetRecetas()
         {
@@ -30,6 +31,7 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // GET: api/Recetas/5
+        // Todos los usuarios autenticados pueden ver una receta específica
         [HttpGet("{id}")]
         public async Task<ActionResult<Recetas>> GetRecetas(int id)
         {
@@ -44,8 +46,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // PUT: api/Recetas/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // Solo los usuarios con el rol de "Administrador" pueden modificar una receta
         [HttpPut("{id}")]
+        [Authorize(Roles = "Administrador")] // Solo los administradores pueden modificar recetas
         public async Task<IActionResult> PutRecetas(int id, Recetas recetas)
         {
             if (id != recetas.Id)
@@ -75,8 +78,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // POST: api/Recetas
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        // Solo los usuarios con el rol de "Administrador" pueden crear nuevas recetas
         [HttpPost]
+        [Authorize(Roles = "Administrador")] // Solo los administradores pueden crear recetas
         public async Task<ActionResult<Recetas>> PostRecetas(Recetas recetas)
         {
             _context.Recetas.Add(recetas);
@@ -86,7 +90,9 @@ namespace ProyectoDesafio3.Controllers
         }
 
         // DELETE: api/Recetas/5
+        // Solo los usuarios con el rol de "Administrador" pueden eliminar recetas
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Administrador")] // Solo los administradores pueden eliminar recetas
         public async Task<IActionResult> DeleteRecetas(int id)
         {
             var recetas = await _context.Recetas.FindAsync(id);
@@ -106,4 +112,5 @@ namespace ProyectoDesafio3.Controllers
             return _context.Recetas.Any(e => e.Id == id);
         }
     }
+
 }

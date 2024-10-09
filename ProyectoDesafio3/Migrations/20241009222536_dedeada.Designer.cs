@@ -12,8 +12,8 @@ using ProyectoDesafio3.Model;
 namespace ProyectoDesafio3.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241009045428_recepie")]
-    partial class recepie
+    [Migration("20241009222536_dedeada")]
+    partial class dedeada
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
