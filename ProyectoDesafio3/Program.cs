@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ProyectoDesafio3.Model;
 
@@ -14,6 +15,13 @@ namespace ProyectoDesafio3
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Database")));
+            builder.Services.AddAuthorization();
+            builder.Services.AddAuthentication()
+                .AddCookie(IdentityConstants.ApplicationScheme);
+
+            builder.Services.AddIdentityCore<Usuario>()
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddApiEndpoints();
 
             builder.Services.AddControllers();
 
@@ -31,8 +39,8 @@ namespace ProyectoDesafio3
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
-
+            app.UseAuthentication();
+            app.MapIdentityApi<Usuario>();
             app.MapControllers();
 
             app.Run();

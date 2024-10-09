@@ -250,3 +250,9 @@ C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.
 C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\obj\Debug\net8.0\ProyectoDesafio3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Fernando\source\repos\ProyectoDesafio3\ProyectoDesafio3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
