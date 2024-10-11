@@ -1,50 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\",
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\model\\recetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\recetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\model\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\controllers\\pasopreparacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\controllers\\pasopreparacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\controllers\\pasopreparacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\carlo\\onedrive\\escritorio\\des\\desafio3des\\proyectodesafio3\\migrations\\20241009222536_dedeada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\migrations\\20241009222536_dedeada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\model\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\model\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|c:\\users\\fernando\\documents\\tareas universidad\\2024\\des\\parcial\\desafio3des\\proyectodesafio3\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA292663-80A2-41B5-A070-B10F05B3E186}|ProyectoDesafio3\\ProyectoDesafio3.csproj|solutionrelative:proyectodesafio3\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,143 +50,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241010022647_migracion_inicial.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Migrations\\20241010022647_migracion_inicial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T02:26:47.563Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\appsettings.json",
+              "RelativeToolTip": "ProyectoDesafio3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T02:15:23.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\appsettings.json",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\appsettings.json",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\appsettings.json",
-              "RelativeToolTip": "ProyectoDesafio3\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T02:21:10.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\AppDbContext.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Model\\AppDbContext.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAABXAAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Model\\Usuario.cs",
+              "RelativeToolTip": "ProyectoDesafio3\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T02:20:42.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T01:42:46.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Ingrediente.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Ingrediente.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\Ingrediente.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Ingrediente.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Model\\Ingrediente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Model\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Model\\RegisterDto.cs",
+              "RelativeToolTip": "ProyectoDesafio3\\Model\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T02:20:40.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Recetas.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Recetas.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\Recetas.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Recetas.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Model\\Recetas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T02:20:36.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T23:57:17.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "RecetasController.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\RecetasController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\RecetasController.cs",
               "RelativeDocumentMoniker": "ProyectoDesafio3\\Controllers\\RecetasController.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\RecetasController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\RecetasController.cs",
               "RelativeToolTip": "ProyectoDesafio3\\Controllers\\RecetasController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwFoAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:41:28.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T23:53:11.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "PasoPreparacionsController.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
               "RelativeDocumentMoniker": "ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
               "RelativeToolTip": "ProyectoDesafio3\\Controllers\\PasoPreparacionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:40:15.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IngredientesController.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\IngredientesController.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Controllers\\IngredientesController.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\IngredientesController.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Controllers\\IngredientesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:34:24.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241009222536_dedeada.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Migrations\\20241009222536_dedeada.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Migrations\\20241009222536_dedeada.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Migrations\\20241009222536_dedeada.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Migrations\\20241009222536_dedeada.cs",
-              "ViewState": "AQIAAKwAAAAAAAAAAAAgwBsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:25:36.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Program.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Program.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAEoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:19:39.792Z",
+              "WhenOpened": "2024-10-10T23:50:49.514Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\IngredientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\Controllers\\IngredientesController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\IngredientesController.cs",
+              "RelativeToolTip": "ProyectoDesafio3\\Controllers\\IngredientesController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwF4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:45:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProyectoDesafio3\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:13:35.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Usuario.cs",
-              "RelativeDocumentMoniker": "ProyectoDesafio3\\Model\\Usuario.cs",
-              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\DES\\DEsafio3DES\\ProyectoDesafio3\\Model\\Usuario.cs",
-              "RelativeToolTip": "ProyectoDesafio3\\Model\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDesafio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Tareas Universidad\\2024\\DES\\Parcial\\DEsafio3DES\\ProyectoDesafio3\\Program.cs",
+              "RelativeToolTip": "ProyectoDesafio3\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowCUAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:17:00.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T22:19:39.792Z"
             }
           ]
         }
